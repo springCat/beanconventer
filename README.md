@@ -4,7 +4,7 @@
 3. copy bean property to map
 4. copy map value to bean
 
-use cglib,reflect asm  
+use cglib,reflectasm  
 
 Benchmark 10000000 times  
 copy guava:     2985ms  
